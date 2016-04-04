@@ -1,2 +1,3 @@
 # duolingo-practice-again
-A hot-key for "Practice Again" button in Duolingo
+
+A Chrome extension adding a hot-key for "Practice Again" button in Duolingo.
