@@ -1,0 +1,23 @@
+{
+    "commands": {
+        "again": {
+            "suggested_key": {
+                "default": "Ctrl+A"
+            },
+            "description": "Again"
+        }
+    },
+    "manifest_version": 2,
+    "name": "Duolingo practice again",
+    "version": "1.0",
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "description": "Duolingo practice again"
+}
